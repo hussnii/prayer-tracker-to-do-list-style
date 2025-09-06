@@ -1,0 +1,130 @@
+body{
+    background-image: url(mosque2.png);
+}
+h1{
+  text-align:center;
+  color:rgb(14, 3, 3);
+  font-size:30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.link{
+display:flex;
+justify-content: space-between;
+border-radius: 5px;
+margin-left: -15px;
+margin-right: -15px;
+padding: 15px 0px;
+color:gold;
+text-decoration: none;
+font-size: 17px;
+background-color: rgb(117, 25, 25);
+border-left: none;
+border-right: none;
+box-shadow: 0 -4px 6px rgb(226, 206, 91);
+}
+.all{
+border:1px solid brown;
+  background-color:azure;
+  border-radius:40px;
+  margin:15px auto;
+  padding: 15px;
+  max-width:900px;
+}
+.big{
+  font-size: 500px;
+  padding:-20px;
+  margin:0px;
+  text-align:center;
+}
+
+.a{
+  color:gold;
+  text-decoration: none;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:20px;
+   transition: all 0.3s ease;
+  
+}
+.a:active{
+  background-color:rgb(168, 75, 75) ;
+  color:whitesmoke;
+  padding:5px;
+  border-radius:5px;
+  transform:rotate(10deg); 
+}
+.a:hover{
+  background-color:gold ;
+  color:rgb(117, 25, 25);
+  transition: ;
+  padding:5px;
+  border-radius:5px;
+  transition: all 0.3s ease;
+}
+#home{
+  border:2px solid rgb(233, 168, 47);
+  border-radius: 20px;
+  padding:3px;
+  background-color:rgb(117, 121, 122) ;
+  margin: 200px auto; 
+}
+.h1home{
+  font-size: 40px;
+  color:gold;
+}
+.hometext{
+  font-size:22px;
+   font-weight:bold;
+   color:gold;
+}
+.image{
+  font-size:45px;
+}
+#prayer{
+border:2px solid rgb(233, 168, 47);
+  border-radius: 20px;
+  padding:3px;
+  background-color:rgb(121, 57, 20) ;
+  margin: 200px auto;
+  font-size: 30px;
+  color:gold;
+}
+.p{
+  display:block;
+  padding:15px;
+}
+#calander{
+border:2px solid rgb(233, 168, 47);
+  border-radius: 20px;
+  padding:60px;
+  background-color:rgb(121, 57, 20) ;
+  margin: 20px auto 150px;
+  font-size: 30px;
+  transform: rotate(-10deg);
+  text-align:center;
+  color:gold;
+}
+#zikir{
+border:2px solid rgb(233, 168, 47);
+  border-radius: 20px;
+  padding:30px;
+  background-color:rgb(121, 57, 20);
+  margin: 20px auto 150px;
+  font-size: 25px;
+  color:gold;
+  
+
+}
+li{
+  padding:10px;
+}
+#setting{
+border:2px solid rgb(233, 168, 47);
+  border-radius: 20px;
+  padding:px;
+  background-color:rgb(121, 57, 20);
+  margin: 20px auto 150px;
+  font-size: 25px;
+  color:gold;}
+  .set{
+    font-size: 40px;
+  }
